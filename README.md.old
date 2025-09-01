@@ -1,0 +1,13 @@
+# 📋 Sistema de Controle de Tarefas Pessoais
+
+Este projeto tem como objetivo oferecer uma aplicação simples e funcional para gerenciamento de tarefas pessoais. O sistema permite que usuários se cadastrem, criem tarefas, editem, excluam e marquem como concluídas.
+
+## 🚀 Funcionalidades
+
+- Cadastro e autenticação de usuários
+- Criação, edição e exclusão de tarefas
+- Marcação de tarefas como concluídas
+- Visualização de tarefas por usuário
+- Interface intuitiva e responsiva (se aplicável)
+
+## 🧱 Estrutura do Projeto
